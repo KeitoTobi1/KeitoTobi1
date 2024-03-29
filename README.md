@@ -8,6 +8,8 @@ Vlang
 
 Godot Engine
 
+Julia
+
 ## Like
 
 Super Smash Bros. Series(I Love Smash Ultimate & Sakurai), Chess, Abstract Game, Shaman KinG Series
