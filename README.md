@@ -2,6 +2,10 @@
 
 I am Mutil Creative Writer.
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=keitotobi1)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=keitotobi1&langs_count=8)
+
 ## Using Language & Engine
 
 Vlang
