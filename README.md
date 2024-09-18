@@ -8,7 +8,7 @@ I am Mutil Creative Writer.
 
 ## Using Language & Engine
 
-![My Skills](https://skillicons.dev/icons?i=cpp,v,vscode,godot,julis)
+![My Skills](https://skillicons.dev/icons?i=cpp,v,vscode,godot,julia,gamemakerstudio)
 
 Siv3D
 
