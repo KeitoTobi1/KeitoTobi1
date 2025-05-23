@@ -8,13 +8,13 @@ I am Mutil Creative Writer.
 
 ## Using Language & Engine
 
-![My Skills](https://skillicons.dev/icons?i=cpp,v,vscode,godot,julia,gamemakerstudio)
+![My Skills](https://skillicons.dev/icons?i=cpp,v,vscode,godot,julia,fsharp)
 
 Siv3D
 
 ## Like
 
-Super Smash Bros. Series(I Love Smash Ultimate & Sakurai), Chess, Abstract Game, Shaman KinG Series
+Super Smash Bros. Series(I Love Smash Ultimate & Sakurai), Chess, Abstract Game, Shaman KinG Series, Is The Order a Rabbit?
 
 ## Creating Now
 
