@@ -1,6 +1,6 @@
 # KeitoTobi1
 
-![GitHub stats](https://github-stats-extended.vercel.app/.vercel.app/api?username=keitotobi1)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=keitotobi1)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=keitotobi1&langs_count=8)
 
